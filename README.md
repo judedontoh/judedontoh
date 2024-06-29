@@ -5,7 +5,7 @@
 
 ---
 
-### 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) 🔗 | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh) 🌐
+ 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) 🔗 | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh) 🌐
 
 - 📧 Contact: jude.dontoh@gmail.com
 
