@@ -1,16 +1,19 @@
-# Hi there 👋, I’m Jude 👨‍💻
-### 🌎 A Machine Learning Engineer based in the U.K. 🌎
+<p align="center">
+  <b style="font-size: 24px; color: #333;">Hi there 👋, I’m Jude 👨‍💻</b><br>
+  <i>A Machine Learning Engineer based in the U.K. 🌎</i>
+</p>
 
 ---
 
-### 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh)
+### 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) 🔗 | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh) 🌐
 
 - 📧 Contact: jude.dontoh@gmail.com
 
 ---
 
-⬇️ Explore my recent projects below. ⬇️
+<p align="center" style="font-size: 18px; color: #007acc;">
+  <b>Explore my recent projects below. 🚀</b>
+</p>
 
 
 
