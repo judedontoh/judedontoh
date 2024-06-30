@@ -5,8 +5,19 @@
 <p align="center">
   <span style="font-size: 24px;"><i>📍 A Machine Learning Engineer currently based in the U.K. 🌎</i></span>
 </p>
+
 <p align="center">
-  🌐 Connect with me: <a href="https://www.linkedin.com/in/jude-dontoh-42ab7011b" style="text-decoration: none; color: #007acc;">LinkedIn</a> | <a href="https://www.datascienceportfol.io/judedontoh" style="text-decoration: none; color: #007acc;">Portfolio</a> | Email: <a href="mailto:jude.dontoh@gmail.com" style="text-decoration: none; color: #007acc;">jude.dontoh@gmail.com</a>
+  🌐 Connect with me: 
+  <a href="https://www.linkedin.com/in/jude-dontoh-42ab7011b" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/judedontoh/icons/main/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin: 0px 10px" height="30" width="30">
+  </a>
+  <a href="https://www.datascienceportfol.io/judedontoh" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/judedontoh/icons/main/portfolio.png" alt="Portfolio" style="vertical-align: middle; margin: 0px 10px" height="30" width="30">
+  </a>
+  Email: 
+  <a href="mailto:jude.dontoh@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/judedontoh/icons/main/email.png" alt="Email" style="vertical-align: middle; margin: 0px 10px" height="30" width="30">
+  </a>
 </p>
 
 <p align="center">
