@@ -1,6 +1,7 @@
 <p align="center">
   <span style="font-size: 36px; display: block;"><b>Hi there 👋 I’m Jude 👨‍💻</b></span>
-  <span style="font-size: 24px;"><I> A Machine Learning Engineer currently based in the U.K. 🌎</i></span>
+  <br>
+  <span style="font-size: 24px;"><i>A Machine Learning Engineer currently based in the U.K. 🌎</i></span>
 </p>
 
 ---
