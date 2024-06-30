@@ -1,21 +1,23 @@
 <p align="center">
-  <b style="font-size: 24px; color: #333;">Hi there 👋, I’m Jude 👨‍💻</b><br>
-  <i>A Machine Learning Engineer based in the U.K. 🌎</i>
+  <b style="font-size: 28px; color: #333;">Hi there 👋, I’m Jude 👨‍💻</b>
+</p>
+
+<p align="center">
+  <span style="font-size: 24px;"><i>A Machine Learning Engineer based in the U.K. 🌎</i></span>
 </p>
 
 ---
 
- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) 🔗 | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh) 🌐
-
-- 📧 Contact: jude.dontoh@gmail.com
+<p align="center">
+  🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/jude-dontoh-42ab7011b) 🔗 | [Data Science Portfolio](https://www.datascienceportfol.io/judedontoh) 🌐<br>
+  📧 Contact: jude.dontoh@gmail.com
+</p>
 
 ---
 
-<p align="center" style="font-size: 18px; color: #007acc;">
-  <b>Explore my recent projects below. 🚀</b>
+<p align="center">
+  <span style="font-size: 18px; color: #007acc;"><b>Explore my recent projects below. 🚀</b></span>
 </p>
-
-
 
 
 
