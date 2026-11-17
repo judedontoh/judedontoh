@@ -21,23 +21,37 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Learning & Artificial Intelligence
+### 🤖 1. VisionTranslate – AI-Powered Camera Translation App
 
-**VisionTranslate – AI-Powered Camera Translation App**
+An AI-powered camera application that recognises objects, extracts text from images and translates content into different languages.
 
-A camera-based application that recognises objects, extracts text from images and translates content into different languages.
+**Project Preview:**
 
-- 🌐 [Try the Live Application](https://judedontoh.github.io/VisionTranslate2.0/)
-- 💻 [View Source Code](https://github.com/judedontoh/visiontranslate2.0)
+<p align="center">
+  <a href="https://judedontoh.github.io/visiontranslate2.0/">
+    <img src="images/visiontranslate.png" alt="VisionTranslate Application Screenshot" width="700">
+  </a>
+</p>
 
-### 🌐 Web Development
+- 🌐 **Live Demo:** [Try VisionTranslate](https://judedontoh.github.io/visiontranslate2.0/)
+- 💻 **Source Code:** [View on GitHub](https://github.com/judedontoh/visiontranslate2.0)
 
-**Edo's Kitchen – African Food Business Website**
+---
 
-A modern website created for a homemade African food business, showcasing food offerings and helping customers make enquiries.
+### 🌐 2. Edo's Kitchen – African Food Business Website
 
-- 🌐 [Visit Live Website](https://edokitchen.netlify.app)
-- 🔒 Source code maintained in a private repository.
+A modern website created for a homemade African food business in Spain, showcasing food offerings and helping customers make enquiries.
+
+**Project Preview:**
+
+<p align="center">
+  <a href="https://edokitchen.netlify.app">
+    <img src="images/edos-kitchen.png" alt="Edo's Kitchen Website Screenshot" width="700">
+  </a>
+</p>
+
+- 🌐 **Live Website:** [Visit Edo's Kitchen](https://edokitchen.netlify.app)
+- 🔒 **Source Code:** Maintained in a private GitHub repository.
 
 ---
 
@@ -49,4 +63,16 @@ I'm continuously learning, improving my technical skills and working on projects
 
 ---
 
-**Thanks for visiting my GitHub profile!** ⭐
+## 🛠️ Areas of Interest
+
+- Machine Learning & Artificial Intelligence
+- Computer Vision
+- Web Development
+- Data Science
+- AI-powered Applications
+
+---
+
+<p align="center">
+  **Thanks for visiting my GitHub profile!** ⭐
+</p>
