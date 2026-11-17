@@ -27,7 +27,7 @@
 
 A camera-based application that recognises objects, extracts text from images and translates content into different languages.
 
-- 🌐 [Try the Live Application](https://judedontoh.github.io/visiontranslate2.0/)
+- 🌐 [Try the Live Application](https://judedontoh.github.io/VisionTranslate2.0/)
 - 💻 [View Source Code](https://github.com/judedontoh/visiontranslate2.0)
 
 ### 🌐 Web Development
