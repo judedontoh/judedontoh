@@ -29,7 +29,7 @@ An AI-powered camera application that recognises objects, extracts text from ima
 
 <p align="center">
   <a href="https://judedontoh.github.io/visiontranslate2.0/">
-    <img src="images/visiontranslate.png" alt="VisionTranslate Application Screenshot" width="700">
+    <img src="visiontranslate.png" alt="VisionTranslate Application Screenshot" width="700">
   </a>
 </p>
 
@@ -46,7 +46,7 @@ A modern website created for a homemade African food business in Spain, showcasi
 
 <p align="center">
   <a href="https://edokitchen.netlify.app">
-    <img src="images/edos-kitchen.png" alt="Edo's Kitchen Website Screenshot" width="700">
+    <img src="edos-kitchen.png" alt="Edo's Kitchen Website Screenshot" width="700">
   </a>
 </p>
 
