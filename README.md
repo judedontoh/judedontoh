@@ -33,7 +33,7 @@ An AI-powered camera application that recognises objects, extracts text from ima
   </a>
 </p>
 
-- 🌐 **Live Demo:** [Try VisionTranslate](https://judedontoh.github.io/visiontranslate2.0/)
+- 🌐 **Live Demo:** [Try VisionTranslate](https://judedontoh.github.io/VisionTranslate2.0/)
 - 💻 **Source Code:** [View on GitHub](https://github.com/judedontoh/visiontranslate2.0)
 
 ---
