@@ -78,6 +78,26 @@ A modern website created for a homemade African food business in Spain, showcasi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=judedontoh&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=judedontoh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=judedontoh&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph">
+</p>
+
 ## 💡 About Me
 
 I enjoy developing practical technology solutions, exploring artificial intelligence and machine learning, and building user-friendly web applications.
