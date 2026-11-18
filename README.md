@@ -1,10 +1,14 @@
 # Hi there 👋 I'm Jude 👨‍💻
 
-\<p align="center">   \<img src="./github-banner.png" width="100%" alt="Jude Dontoh - Machine Learning Engineer"> \</p>
+![Jude Dontoh - Machine Learning Engineer](./github-banner.png)
 
-\<p align="center">   \<i>Machine Learning Engineer | Artificial Intelligence | Web Development 🌎\</i> \</p>
+**Machine Learning Engineer | Artificial Intelligence | Web Development 🌎**
 
-\<p align="center">   🌐 \<b>Connect with me:\</b>   \<a href="[https://www.linkedin.com/in/jude-dontoh-42ab7011b](https://www.linkedin.com/in/jude-dontoh-42ab7011b)">     \<img src="[https://img.icons8.com/color/48/000000/linkedin.png](https://img.icons8.com/color/48/000000/linkedin.png)" alt="LinkedIn" height="30" width="30">   \</a>   \<a href="[https://www.datascienceportfol.io/judedontoh](https://www.datascienceportfol.io/judedontoh)">     \<img src="[https://img.icons8.com/ios-filled/50/000000/portfolio.png](https://img.icons8.com/ios-filled/50/000000/portfolio.png)" alt="Portfolio" height="30" width="30">   \</a>   \<a href="mailto\:jude.dontoh\@gmail.com">     \<img src="[https://img.icons8.com/color/48/000000/gmail.png](https://img.icons8.com/color/48/000000/gmail.png)" alt="Email" height="30" width="30">   \</a> \</p>
+🌐 **Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jude-dontoh-42ab7011b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://www.datascienceportfol.io/judedontoh)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jude.dontoh@gmail.com)
 
 ---
 
@@ -17,7 +21,6 @@ An end-to-end data science and machine learning project that analyses household 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn and Streamlit.
 
 **Highlights:**
-
 - 📊 Exploratory data analysis and visualisation
 - 🤖 Random Forest machine learning model
 - 📈 Time-series validation and model evaluation
@@ -44,7 +47,7 @@ An AI-powered camera application that recognises objects, extracts text from ima
 
 A modern website created for a homemade African food business in Spain, showcasing food offerings and helping customers make enquiries.
 
-- 🌐 **Live Website:** [Visit Edo's Kitchen](https://edokitchen.netlify.app)
+- 🌐 **Live Website:** [Visit Edo's Kitchen](https://edokitchen.netlify.app/)
 - 🔒 **Source Code:** Maintained in a private GitHub repository.
 
 ---
@@ -53,38 +56,40 @@ A modern website created for a homemade African food business in Spain, showcasi
 
 **Programming**
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Data Science & Machine Learning**
 
-
-\
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Data Visualisation**
 
-\
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 **Tools & Deployment**
 
-
-\
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=judedontoh&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=judedontoh\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180" alt="GitHub statistics">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180" alt="Most used programming languages"> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=judedontoh&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 Contribution Streak
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=judedontoh&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=judedontoh\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak"> \</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=judedontoh&theme=tokyonight&hide_border=true)
 
 ## 📈 Contribution Activity
 
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=judedontoh&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=judedontoh\&theme=tokyo-night\&hide_border=true)" width="100%" alt="GitHub activity graph"> \</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=judedontoh&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -106,4 +111,4 @@ I'm continuously learning, improving my technical skills and working on projects
 
 ---
 
-\<p align="center">   \<b>Thanks for visiting my GitHub profile! ⭐\</b> \</p>
+⭐ **Thanks for visiting my GitHub profile!**
