@@ -1,114 +1,108 @@
-# Hi there 👋 I'm Jude 👨‍💻
+# ⚡ JUDE DONTOH
 
+### Machine Learning Engineer · Artificial Intelligence · Web Development
 
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Technology](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&pause=1200\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Building+Intelligent+Solutions;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Technology)" alt="Typing introduction" /> \</p>
 
-**Machine Learning Engineer | Artificial Intelligence | Web Development 🌎**
-
-🌐 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jude-dontoh-42ab7011b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://www.datascienceportfol.io/judedontoh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jude.dontoh@gmail.com)
+\<p align="center">   \<a href="[https://www.linkedin.com/in/jude-dontoh-42ab7011b](https://www.linkedin.com/in/jude-dontoh-42ab7011b)">LinkedIn\</a> ◆   \<a href="[https://www.datascienceportfol.io/judedontoh](https://www.datascienceportfol.io/judedontoh)">Portfolio\</a> ◆   \<a href="mailto\:jude.dontoh\@gmail.com">Email\</a> \</p>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ 01 — THE DEVELOPER
 
-### ⚡ 1. EnergyWise – Appliance Energy Consumption Forecasting
+I'm a Machine Learning Engineer passionate about artificial intelligence, data science and building practical technology solutions.
 
-An end-to-end data science and machine learning project that analyses household appliance energy consumption and explores short-term energy forecasting.
+I enjoy exploring intelligent systems, developing predictive models and creating applications that bring ideas to life.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn and Streamlit.
-
-**Highlights:**
-- 📊 Exploratory data analysis and visualisation
-- 🤖 Random Forest machine learning model
-- 📈 Time-series validation and model evaluation
-- ⚡ Interactive energy analytics dashboard
-- 📥 Downloadable forecast reports
-
-**Project Links:**
-
-- 🌐 **Live Dashboard:** [Explore EnergyWise](https://energywise-jude.streamlit.app/)
-- 💻 **Source Code:** [View on GitHub](https://github.com/judedontoh/EnergyWise)
+**Current focus:** Machine Learning · AI Applications · Data Analytics · Web Development
 
 ---
 
-### 🤖 2. VisionTranslate – AI-Powered Camera Translation App
+## ◈ 02 — FEATURED PROJECTS
+
+### ⚡ ENERGYWISE
+
+**Appliance Energy Consumption Forecasting & Analytics**
+
+An end-to-end machine learning project exploring household appliance energy consumption and short-term energy forecasting.
+
+- Exploratory data analysis and visualisation
+- Random Forest forecasting model
+- Time-series validation and model evaluation
+- Interactive Streamlit analytics dashboard
+- Downloadable forecast reports
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+
+🌐 [Launch Live Dashboard](https://energywise-jude.streamlit.app/)
+💻 [Explore Source Code](https://github.com/judedontoh/EnergyWise)
+
+---
+
+### 🤖 VISIONTRANSLATE
+
+**AI-Powered Camera Translation Application**
 
 An AI-powered camera application that recognises objects, extracts text from images and translates content into different languages.
 
-- 🌐 **Live Demo:** [Try VisionTranslate](https://judedontoh.github.io/VisionTranslate2.0/)
-- 💻 **Source Code:** [View on GitHub](https://github.com/judedontoh/visiontranslate2.0)
+🌐 [Launch Live Demo](https://judedontoh.github.io/VisionTranslate2.0/)
+💻 [Explore Source Code](https://github.com/judedontoh/visiontranslate2.0)
 
 ---
 
-### 🌐 3. Edo's Kitchen – African Food Business Website
+### 🌐 EDO'S KITCHEN
+
+**African Food Business Website**
 
 A modern website created for a homemade African food business in Spain, showcasing food offerings and helping customers make enquiries.
 
-- 🌐 **Live Website:** [Visit Edo's Kitchen](https://edokitchen.netlify.app/)
-- 🔒 **Source Code:** Maintained in a private GitHub repository.
+🌐 [Visit Live Website](https://edokitchen.netlify.app/)
+🔒 Source code maintained in a private GitHub repository.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## ◈ 03 — TECHNOLOGY ARSENAL
 
-**Programming**
+**Programming & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data Science & Machine Learning**
+\
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Data Visualisation**
+**Machine Learning & Visualisation**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-**Tools & Deployment**
+\
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Development & Deployment**
+
+
+\
+
 
 ---
 
-## 📊 GitHub Statistics
+## ◈ 04 — GITHUB INTELLIGENCE
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=judedontoh&show_icons=true&theme=tokyonight&hide_border=true)
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=judedontoh&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=judedontoh\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="170" alt="GitHub statistics" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh\&layout=compact\&theme=tokyonight\&hide_border=true)" height="170" alt="Most used languages" /> \</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judedontoh&layout=compact&theme=tokyonight&hide_border=true)
+## ◈ 05 — CONTRIBUTION ACTIVITY
 
-## 🔥 Contribution Streak
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=judedontoh&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=judedontoh\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" /> \</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=judedontoh&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=judedontoh&theme=tokyo-night&hide_border=true)
+\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=judedontoh&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=judedontoh\&theme=tokyo-night\&hide_border=true)" width="100%" alt="GitHub contribution activity" /> \</p>
 
 ---
 
-## 💡 About Me
+## ◈ 06 — AREAS OF INTEREST
 
-I enjoy developing practical technology solutions, exploring artificial intelligence and machine learning, and building user-friendly web applications.
-
-I'm continuously learning, improving my technical skills and working on projects that solve real-world problems.
-
----
-
-## 🎯 Areas of Interest
-
-- Machine Learning & Artificial Intelligence
-- Data Science & Predictive Analytics
+- Artificial Intelligence & Machine Learning
+- Predictive Analytics & Data Science
 - Computer Vision
-- Web Development
 - AI-powered Applications
+- Web Development
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+\<p align="center">   \<b>BUILD. LEARN. INNOVATE.\</b>   \<br/>   \<i>Exploring the future, one project at a time.\</i>   \<br/>\<br/>   ✦ Thanks for visiting my GitHub profile ✦ \</p>
