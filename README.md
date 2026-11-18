@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jude 👨‍💻
 
-![Jude Dontoh - Machine Learning Engineer](./github-banner.png)
+
 
 **Machine Learning Engineer | Artificial Intelligence | Web Development 🌎**
 
