@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Jude Dontoh - Machine Learning Engineer">
+</p>
+
 # Hi there 👋 I'm Jude 👨‍💻
 
 <p align="center">
